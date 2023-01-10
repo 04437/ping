@@ -1,20 +1,22 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 73,
-    "timeDay": 73,
-    "timeWeek": 73,
-    "timeMonth": 73,
-    "timeYear": 73,
-    "dailyMinutesDown": {}
+    "name": "archer",
+    "url": "$SECRET_SITE",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "archer",
+    "status": "down",
+    "uptime": "95.04%",
+    "uptimeDay": "95.04%",
+    "uptimeWeek": "95.04%",
+    "uptimeMonth": "95.04%",
+    "uptimeYear": "95.04%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-01-10": 0
+    }
   }
 ]
