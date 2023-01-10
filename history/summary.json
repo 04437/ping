@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "archer",
     "status": "down",
-    "uptime": "90.60%",
-    "uptimeDay": "90.60%",
-    "uptimeWeek": "90.60%",
-    "uptimeMonth": "90.60%",
-    "uptimeYear": "90.60%",
+    "uptime": "11.33%",
+    "uptimeDay": "11.33%",
+    "uptimeWeek": "11.33%",
+    "uptimeMonth": "11.33%",
+    "uptimeYear": "11.33%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-10": 0
+      "2023-01-10": 10
     }
   }
 ]
